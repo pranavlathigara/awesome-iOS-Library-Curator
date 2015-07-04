@@ -10,8 +10,7 @@ Here's how this list is going to be categorized:
 - Networking Frameworks
 - UIKit Frameworks
 
-#### First, the gold standard libraries. The essentials --- You **NEED** to know about these !
-#### These libraries should be on everybody's short list for iOS projects as you're likely to include these in most of them
+#### First, the gold standard libraries. The essentials --- You **NEED** to know about these !! You're likely to include each of these in most of them
 
 - AFNetworking
 - ReactiveCocoa

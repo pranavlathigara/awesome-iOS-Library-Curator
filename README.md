@@ -7,7 +7,7 @@ As you can tell from my profile, I "STAR" more projects than prety much anyone e
 
 This guide was created using **[Prose](https://github.com/prose/prose)**, which utilizes [**Markdown**](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide?continue=https%3A%2F%2Fconfluence.atlassian.com%2Fdisplay%2FSTASH%2FMarkdown%2Bsyntax%2Bguide&application=cac) style syntax. 
 
-## **iOS List**
+## **Index**
 
 Here's how this list is going to be categorized:
 - Essential Projects

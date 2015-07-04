@@ -18,6 +18,7 @@ Here's how this list is going to be categorized:
 - Good Websites
 - My Personal Favorites
 - Example Projects (to be broken down furthur)
+- Favorite Reads
 
 #### First, the gold standard libraries. The essentials --- You **NEED** to know about these !! You're likely to include a few of these in your own iOS projects
 

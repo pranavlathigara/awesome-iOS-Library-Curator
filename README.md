@@ -30,7 +30,11 @@ Here's how this list is going to be categorized:
 - **Firebase + RACExtensions** (my own)
 - **ReactiveCocoaLayout**
 - **ReactiveViewModel**
-- **ReactiveCoreData**
+- **ReactiveCoreData**: Below is an example of how this lub can be used
+  RAC(self.filteredParents) = [[[[Parent findAll]
+    where:@"name" contains:filterText options:@"cd"]
+    sortBy:@"name"]
+    fetchWithTrigger:objectsChanged];
 - **CETableViewBinding**
 - **Bikes**
 

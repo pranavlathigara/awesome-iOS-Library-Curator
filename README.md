@@ -6,8 +6,8 @@ As you can tell from my profile, I "STAR" more projects than prety much anyone e
 ## **iOS List**
 
 
-### First, the gold standard libraries. THe essentials
-### These libraries should be on everybody's short list for iOS projects! You're likely to include these in most of your projects!
+#### First, the gold standard libraries. The essentials --- You NEED to know about these.
+#### These libraries should be on everybody's short list for iOS projects! You're likely to include these in most of your projects!
 
 - AFNetworking
 - ReactiveCocoa
@@ -16,6 +16,8 @@ As you can tell from my profile, I "STAR" more projects than prety much anyone e
 - Specta
 - Expecta
 
-### Next, we'll start categorizing libraries by function
+#### Next, we'll start categorizing libraries by function
+
+
 
 

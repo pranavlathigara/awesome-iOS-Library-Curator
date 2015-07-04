@@ -33,8 +33,8 @@ Here's how this list is going to be categorized:
 ##### Next, because ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code, here's a few extensions that should make your RAC transtion a little bit smoother
 
 - **[Firebase + RACExtensions](https://github.com/joenoon/Firebase-RACExtensions)**: a lib that adds extension abilities to Firebase. I find this ultra awesome for dynamic user interfaces in need of live updates
-- **ReactiveCocoaLayout**: an awesome lib for creating animations with ReactiveCocoa
-- **ReactiveViewModel**: a library that shows, by example, how to use the MVVM design pattern
+- **[ReactiveCocoaLayout](https://github.com/ReactiveCocoa/ReactiveCocoaLayout)**: an awesome lib for creating animations with ReactiveCocoa
+- **[ReactiveViewModel](https://github.com/ReactiveCocoa/ReactiveViewModel)**: a library that shows, by example, how to use the MVVM design pattern
 - **[ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData)**: Below is an example of how this lib can be used. ReactiveCocoaLayout brings RAC code to the most obnoxious parts of iOS ibrary (I'm looking at you, autolayout!)
 
             RAC(self.filteredParents) = [[[[Parent findAll]
@@ -42,9 +42,10 @@ Here's how this list is going to be categorized:
               sortBy:@"name"]
               fetchWithTrigger:objectsChanged];
 
-- **CETableViewBinding**: A library that makes the somewhat overwhleming task of using RAC with UITableViews less obnoxious
-- **Bikes**: A great example project for proper use of the MVVM pattern built by some guy over at TimeHop
-- **Reactive+iBeacon**: Very Very cool lib that makes your iPhone discoverable in an NFC environment
+- **[CETableViewBinding](https://github.com/ColinEberhardt/CETableViewBinding)**: A library that makes the somewhat overwhleming task of using RAC with UITableViews less obnoxious
+- **[Bikes](https://github.com/edc1591/Bikes)**: A great example project for proper use of the MVVM pattern built by some guy over at TimeHop
+- **[Reactive+iBeacon](https://github.com/eliperkins/ReactiveBeacon)**: Very Very cool lib that makes your iPhone discoverable in an NFC environment
+- **[MMPReactiveCoreLocation](MMPReactiveCoreLocation)**: CoreLocation annoyances made less annoying with RAC
 
 ####Library and Frameworks
 - Audio

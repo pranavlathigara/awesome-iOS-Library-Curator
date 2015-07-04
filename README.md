@@ -32,7 +32,7 @@ Here's how this list is going to be categorized:
 - **[Firebase + RACExtensions](https://github.com/joenoon/Firebase-RACExtensions)**: a lib that adds extension abilities to Firebase. I find this ultra awesome for dynamic User Interfaces (my own) 
 - **ReactiveCocoaLayout**: an awesome lib for creating animations with ReactiveCocoa
 - **ReactiveViewModel**: a library that shows, by example, how to use the MVVM design pattern
-- **ReactiveCoreData**: Below is an example of how this lib can be used
+- **[ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData)**: Below is an example of how this lib can be used
 
             RAC(self.filteredParents) = [[[[Parent findAll]
               where:@"name" contains:filterText options:@"cd"]

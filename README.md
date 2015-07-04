@@ -27,9 +27,9 @@ Here's how this list is going to be categorized:
 
 #### Next, because ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code, here's a few extensions that should make your RAC transtion a little bit smoother
 
-- **Firebase + RACExtensions** (my own)
-- **ReactiveCocoaLayout**
-- **ReactiveViewModel**
+- **Firebase + RACExtensions**: a lib that adds extension abilities to Firebase. I find this ultra awesome for dynamic User Interfaces (my own) 
+- **ReactiveCocoaLayout**: an awesome lib for creating animations with ReactiveCocoa
+- **ReactiveViewModel**: a library that shows, by example, how to use the MVVM design pattern
 - **ReactiveCoreData**: Below is an example of how this lib can be used
 
             RAC(self.filteredParents) = [[[[Parent findAll]
@@ -37,9 +37,9 @@ Here's how this list is going to be categorized:
               sortBy:@"name"]
               fetchWithTrigger:objectsChanged];
 
-- **CETableViewBinding**
-- **Bikes**
-
+- **CETableViewBinding**: A library that makes the somewhat overwhleming task of using RAC with UITableViews less obnoxious
+- **Bikes**: A great example project for proper use of the MVVM pattern built by some guy over at TimeHop
+- **Reactive+iBeacon**: Very Very cool lib that makes your iPhone discoverable in an NFC environment
 
 ####Library and Frameworks
 - Audio

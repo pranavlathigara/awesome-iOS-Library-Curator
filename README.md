@@ -31,7 +31,7 @@ Here's how this list is going to be categorized:
 
 #### Next, because ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code, here's a few extensions that should make your RAC transtion a little bit smoother
 
-- **[Firebase + RACExtensions](https://github.com/joenoon/Firebase-RACExtensions)**: a lib that adds extension abilities to Firebase. I find this ultra awesome for dynamic User Interfaces (my own) 
+- **[Firebase + RACExtensions](https://github.com/joenoon/Firebase-RACExtensions)**: a lib that adds extension abilities to Firebase. I find this ultra awesome for dynamic user interfaces in need of live updates
 - **ReactiveCocoaLayout**: an awesome lib for creating animations with ReactiveCocoa
 - **ReactiveViewModel**: a library that shows, by example, how to use the MVVM design pattern
 - **[ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData)**: Below is an example of how this lib can be used

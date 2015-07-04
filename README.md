@@ -1,9 +1,10 @@
-# My Curated iOS Library 
+# My Curated Awesome iOS Library 
 A review of each project I "Star" On Github. 
 
 As you can tell from my profile, I "STAR" more projects than prety much anyone else (I have a problem?) This document is an attempt to break down each and every one of these projects. Note that I primarily use Obj-C and this list clearly reflects that. I will make a seperate list for Swift projects
 
-#### Note: Please also see these other fantastic lists! [AwseomeUI](https://github.com/cjwirth/awesome-ios-ui) and [Awesome_iOS](https://github.com/vsouza/awesome-ios) . A huge thanks is also in order ofr Cocoapods and CocoaControls. I wouldn't be the dev I am today without learning from a few projects on each of those sites. Please also know this was not meant to discredit any other lists. This list is just my own expanded version of those, so that I can put my own 2 cents on each library. It was created to help me remember what I have seen on Github - there is an incredible open source community out there that could really save you tons of time if you use it right! Hopefully this list can be a bit helpful for you
+#### Note: Please also see these other awesome lists! [AwseomeUI](https://github.com/cjwirth/awesome-ios-ui), [Awesome_iOS](https://github.com/vsouza/awesome-ios), [Awesome_iOS_Charts](https://github.com/sxyx2008/awesome-ios-chart), and [Awesome_iOS_Animation](https://github.com/sxyx2008/awesome-ios-animation) . A huge thanks is also in order for Cocoapods and CocoaControls - I wouldn't be the dev I am today without learning from a few projects I picked up from each of those sites.
+#### Please also know this was not meant to discredit any other lists!! This list is just my own expanded version of those, so that I can put my own 2 cents on each library. It was created to help me remember what I have seen on Github - there is an incredible open source community out there that could really save you tons of time if you use it right! Hopefully this list can be a bit helpful for you
 
 This guide was created using **[Prose](https://github.com/prose/prose)**, which utilizes [**Markdown**](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide?continue=https%3A%2F%2Fconfluence.atlassian.com%2Fdisplay%2FSTASH%2FMarkdown%2Bsyntax%2Bguide&application=cac) style syntax. 
 

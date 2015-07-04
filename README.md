@@ -96,8 +96,7 @@ Here's how this list is going to be categorized:
 Below are some tools that I'd recommend for you to really familiarize yourself with
 
 -**[SYNX](https://github.com/venmo/synx)**: This cleans up your project folder... automatically! One of those wicked cool Ruby scripts that makes sure your Xcode project folder matches what you have in your Xcode project. Any unused junk files get automatically deleted!
--
--
+
 
 ##### Style Guides
 

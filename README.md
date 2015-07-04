@@ -6,16 +6,16 @@ As you can tell from my profile, I "STAR" more projects than prety much anyone e
 ## **iOS List**
 
 Here's how this list is going to be categorized:
-1. Essential Projects
-2. Frameworks
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+- Essential Projects
+- Frameworks
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-
 
 #### First, the gold standard libraries. The essentials --- You **NEED** to know about these !
 #### These libraries should be on everybody's short list for iOS projects as you're likely to include these in most of them
@@ -29,6 +29,3 @@ Here's how this list is going to be categorized:
 - Expecta
 
 #### Next, we'll start categorizing libraries by function
-
-
-

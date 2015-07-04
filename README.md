@@ -1,7 +1,9 @@
 # iOS_Library_Curator
 A review of each project I "Star" On Github. 
 
-As you can tell from my profile, I "STAR" more projects than prety much anyone else. This document is an attempt to break down ech and every one of these! Feel free to contribute! Note: I primarily use Obj-C and this list clearly reflects that. I will make a seperate list for Swift projects
+As you can tell from my profile, I "STAR" more projects than prety much anyone else. This document is an attempt to break down ech and every one of these! Feel free to contribute! Note that I primarily use Obj-C and this list clearly reflects that. I will make a seperate list for Swift projects
+
+#### Note: Please also see these other fantastic lists! [AwseomeUI](https://github.com/cjwirth/awesome-ios-ui) and [Awesome_iOS](https://github.com/vsouza/awesome-ios) . Also, this was not meant to be a copy of those lists. This list is an expanded version of those, with my own 2 cents on each library 
 
 ## **iOS List**
 
@@ -104,5 +106,11 @@ Here's how this list is going to be categorized:
 - Contributing
 
 
-#### Next up is a personal list of my favorites (essentials don't count here)
+#### Next up is a personal list of my favorite libraries (essentials don't count here)
 - **PromiseKit**
+
+#### Last up is a personal list of my favorite projects (essentials don't count here)
+- **[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)**: This may be one of the coolest refresh controls I've ever seen
+- **[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)**: Easily the coolest text field I've ever seen
+- **[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**: The best message view controller I've ever seen
+-

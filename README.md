@@ -5,7 +5,7 @@ As you can tell from my profile, I "STAR" more projects than prety much anyone e
 
 #### Note: Please also see these other fantastic lists! [AwseomeUI](https://github.com/cjwirth/awesome-ios-ui) and [Awesome_iOS](https://github.com/vsouza/awesome-ios) . Also, a huge thanks to Cocoapods and CocoaControls. I wouldn't be the dev I am today without those sites. Please also know this was not meant to discredit any other lists. This list is just my own expanded version of those, so that I can put my own 2 cents on each library. It was created to help me remember what I have seen on Github - there is an incredible open source community out there that could really save you tons of time if you use it right! Some projects are definitely more useful than others
 
-This guide was created using **[Prose](https://github.com/prose/prose)**, which utilizes [**Markdown**](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide?continue=https%3A%2F%2Fconfluence.atlassian.com%2Fdisplay%2FSTASH%2FMarkdown%2Bsyntax%2Bguide&application=cac)  
+This guide was created using **[Prose](https://github.com/prose/prose)**, which utilizes [**Markdown**](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide?continue=https%3A%2F%2Fconfluence.atlassian.com%2Fdisplay%2FSTASH%2FMarkdown%2Bsyntax%2Bguide&application=cac) style syntax. 
 
 ## **iOS List**
 

@@ -79,8 +79,8 @@ Here's how this list is going to be categorized:
 - **AFNetworking**: Probably the most "starred" iOS project on Github, and for good reason. AFNetworking wraps most of the complicated NSURLSession / HTTP / Core Data into one easy to use library.
 - **ReactiveCocoa**: If you haven't heard about this one, well, you're in for a serious treat. This lib makes your iOS code _Functional_ and _Reactive_.
 - **Mantle**: A great lib for creating Model objects in iOS. Normally, this requires a ton of boilerplate code. Now, it doesn't have to!
-- **RESTKit**: A fantastic library for making REST type requests in iOS with WEB services relatively painless.
-- **Masonry**: You got autolayout issue? Don't like using storyboards? Use this instead!
+- **RESTKit**: A fantastic library for making REST type requests in iOS with WEB services relatively painless. It provides a powerful object mapping engine that seamlessly integrates with Core Data and a simple set of networking primitives for mapping HTTP requests and responses built on top of AFNetworking. It has an elegant, carefully designed set of APIs that make accessing and modeling RESTful resources feel almost magical.
+- **Masonry**: You got autolayout issues? Don't like using storyboards? Hate autolyout code? (I know I do!) Use this library instead! 
 - **Objection**: Dependency Injection in objective-c made sooo much easier with this. A great great lib
 - **Specta**: A light-weight TDD / BDD framework for Objective-C & Cocoa. This makes testing your code a piece of cake
 - **Expecta**: A matcher framework that works fantastically with Specta. expect(**expecta**).to.beAwesome() for testing your ReactiveCocoa code

@@ -1,4 +1,4 @@
-# iOS_Library_Curator
+# My Curated iOS Library 
 A review of each project I "Star" On Github. 
 
 As you can tell from my profile, I "STAR" more projects than prety much anyone else. This document is an attempt to break down ech and every one of these! Feel free to contribute! Note that I primarily use Obj-C and this list clearly reflects that. I will make a seperate list for Swift projects

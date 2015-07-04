@@ -3,7 +3,9 @@ A review of each project I "Star" On Github.
 
 As you can tell from my profile, I "STAR" more projects than prety much anyone else. This document is an attempt to break down ech and every one of these! Feel free to contribute! Note that I primarily use Obj-C and this list clearly reflects that. I will make a seperate list for Swift projects
 
-#### Note: Please also see these other fantastic lists! [AwseomeUI](https://github.com/cjwirth/awesome-ios-ui) and [Awesome_iOS](https://github.com/vsouza/awesome-ios) . Please know this was not meant to discredit those lists. This list is just my own expanded version of those, with my own 2 cents on each library. It was created to help me remember what I have seen on Github - there is an incredible open source community out there that could really save you tons of time
+#### Note: Please also see these other fantastic lists! [AwseomeUI](https://github.com/cjwirth/awesome-ios-ui) and [Awesome_iOS](https://github.com/vsouza/awesome-ios) . Also, a huge thanks to Cocoapods and CocoaControls. I wouldn't be the dev I am today without those sites. Please also know this was not meant to discredit any other lists. This list is just my own expanded version of those, so that I can put my own 2 cents on each library. It was created to help me remember what I have seen on Github - there is an incredible open source community out there that could really save you tons of time if you use it right! Some projects are definitely more useful than others
+
+This guide was created using **Prose**, which utilizes Markdown  
 
 ## **iOS List**
 

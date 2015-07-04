@@ -35,7 +35,7 @@ Here's how this list is going to be categorized:
 - **[Firebase + RACExtensions](https://github.com/joenoon/Firebase-RACExtensions)**: a lib that adds extension abilities to Firebase. I find this ultra awesome for dynamic user interfaces in need of live updates
 - **ReactiveCocoaLayout**: an awesome lib for creating animations with ReactiveCocoa
 - **ReactiveViewModel**: a library that shows, by example, how to use the MVVM design pattern
-- **[ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData)**: Below is an example of how this lib can be used
+- **[ReactiveCoreData](https://github.com/apparentsoft/ReactiveCoreData)**: Below is an example of how this lib can be used. ReactiveCocoaLayout brings RAC code to the most obnoxious parts of iOS ibrary (I'm looking at you, autolayout!)
 
             RAC(self.filteredParents) = [[[[Parent findAll]
               where:@"name" contains:filterText options:@"cd"]

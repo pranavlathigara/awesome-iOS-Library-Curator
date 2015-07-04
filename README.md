@@ -31,10 +31,12 @@ Here's how this list is going to be categorized:
 - **ReactiveCocoaLayout**
 - **ReactiveViewModel**
 - **ReactiveCoreData**: Below is an example of how this lib can be used
+
             RAC(self.filteredParents) = [[[[Parent findAll]
               where:@"name" contains:filterText options:@"cd"]
               sortBy:@"name"]
               fetchWithTrigger:objectsChanged];
+
 - **CETableViewBinding**
 - **Bikes**
 

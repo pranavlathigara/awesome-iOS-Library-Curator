@@ -129,3 +129,4 @@ Here's how this list is going to be categorized:
 #### Thanks for checking out this post! Here are some more awesome pages
 - awesome-xamarin
 - awesome-AndroidUI
+- **[Awesome_AngularJS](https://github.com/gianarb/awesome-angularjs)**

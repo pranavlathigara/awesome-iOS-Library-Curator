@@ -124,3 +124,8 @@ Here's how this list is going to be categorized:
 - **[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)**: Easily the coolest text field I've ever seen
 - **[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**: The best message view controller I've ever seen
 -
+
+
+#### Thanks for checking out this post! Here are some more awesome pages
+- awesome-xamarin
+- awesome-AndroidUI

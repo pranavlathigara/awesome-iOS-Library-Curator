@@ -127,6 +127,8 @@ Here's how this list is going to be categorized:
 
 
 #### Thanks for checking out this post! Here are some more awesome pages
-- awesome-xamarin
+- [**awesome-xamarin**](https://github.com/benoitjadinon/awesome-xamarin)
 - awesome-AndroidUI
 - **[Awesome_AngularJS](https://github.com/gianarb/awesome-angularjs)**
+- just an awesome AngularJS [website](https://angularjs.zeef.com/gianluca.arbezzano)
+- **Awesome [Javascript](https://github.com/sorrycc/awesome-javascript)**

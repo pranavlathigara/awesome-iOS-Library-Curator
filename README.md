@@ -37,6 +37,8 @@ Here's how this list is going to be categorized:
 - **[KIF](https://github.com/kif-framework/KIF)**: Keep it functional with KIF. A great great lib for UI testing and continuous integration testing 
 - **[PonyDebugger](https://github.com/square/PonyDebugger)**: Note- I added this because it looks awesome. But still testing and need to verify its awesomeness. Pretty much lets you monitor network activity with Chrome Developer Tools
 - **[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)**: Note: see PonyDebugger. But looks easy to use and awesome. I've been using Aspects up to this point but will start looking in this direction! According to the docs, "In most cases it is an order of magnitude faster than NSLog."
+- **[FLEX](https://github.com/Flipboard/FLEX)**: See PonyDebugger. FLEX looks like an ultra awesome UI debugging tool built by Flipboard. Possibly outdated? Will investigate
+
 
 ##### Next, because ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code, here's a few extensions that should make your RAC transtion a little bit smoother
 
@@ -99,6 +101,8 @@ Here's how this list is going to be categorized:
 
 #### Plugins
 ##### Package Manager
+- **[xctool](https://github.com/facebook/xctool)**: Tool to run xcode builds much more easily through the terminal.
+
 ##### Themes
 ##### Misc - Below are some tools that I'd recommend for you to really familiarize yourself with
 

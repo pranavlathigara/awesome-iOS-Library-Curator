@@ -57,6 +57,16 @@ Here's how this list is going to be categorized:
 - **[Reactive+iBeacon](https://github.com/eliperkins/ReactiveBeacon)**: Very Very cool lib that makes your iPhone discoverable in an NFC environment
 - **[MMPReactiveCoreLocation](MMPReactiveCoreLocation)**: CoreLocation annoyances made less annoying with RAC
 - **[LibExtobj](https://github.com/jspahrsummers/libextobjc)**: This is a library that gives you some cool little additions, most notably @weakify(self) and @strongify(self)
+- **[OctoKit](https://github.com/octokit/octokit.objc)**: A massive project undertaking from the makers of RAC. A good project to look at if you need ideas on RAC
+- **[Artsy/Eigen](https://github.com/artsy/eigen)**: From one of RAC's biggest supporters, Ash Furrow
+
+### Recently I've done a few projects that involve Payments, iBeacons, and PassKit. Make sure to check these links out:
+- **[Ubudu](https://github.com/Ubudu/IOS-SDK)**: Cool SDK for integrating iBeacons into your retail space. Looks good for malls ($$$)
+- **[Captainpass](https://github.com/CarvingLabs/captainpass-ios-sdk)** Simple to use Passbook sdk ($$$)
+- **[PassSlot](https://github.com/passslot/passslot-ios-sdk)**: Another passbook SDK ($$$)
+- **[PassKit](https://passkit.com/)**: This one looks like the real deal. They use iBeacons, rewards and everything. However, might be overkill. How did they score that name ??
+- **[LevelUp](https://github.com/Level/levelup)**: One of the best systems I've seen. Costs money, however
+
 
 ####Library and Frameworks
 - Audio

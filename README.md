@@ -31,6 +31,7 @@ Here's how this list is going to be categorized:
 - **[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)**: Inspired by Martin Fowler's ActiveRecord pattern, where data is stored in relational databases, Magical Record is a lib that simplifies all of your Core Data code. With MagicalRecord, database and object communication is made a heck of a lot easier. Which is great, because I personally get headaches wrapping my head around Core Data. Reminds me of R.O.R.'s ActiveRecord response to CRUD, using an NSFetchedResultsController
 - **[Masonry](https://github.com/SnapKit/Masonry)**: You got autolayout issues? Don't like using storyboards? Hate autolyout code? (I know I do!) Use this library instead! 
 - **[Objection](http://objection-framework.org/)**: Dependency Injection in objective-c made so much easier with this. A great great lib that fixes one of my least favorite parts of the ojective-c language.
+- **[Typhoon](https://github.com/appsquickly/Typhoon)**: Another D.I. framework that people really really love
 - **[Specta](https://github.com/specta/specta)**: A light-weight TDD / BDD framework for Objective-C & Cocoa. This makes testing your code a piece of cake
 - **[Expecta](https://github.com/specta/expecta/)**: A matcher framework that works fantastically with Specta. expect(**expecta**).to.beAwesome() for testing your ReactiveCocoa code
 - **[OCMock](http://ocmock.org/)**: Library for easy creation of mock objects
@@ -42,7 +43,8 @@ Here's how this list is going to be categorized:
 
 ### Next, because ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code, here's a few extensions that should make your RAC transtion a little bit smoother
 
-- **[Bizhi](https://github.com/lzyy/bizhi)**: the holy grail of example projects. uses objection + reactivecocoa (my favs)
+- **[Bizhi](https://github.com/lzyy/bizhi)**: the holy grail of example projects. uses objection + reactivecocoa (my favs) + AFNetworking + UICollectionView
+- **[Typhoon + Core Data + RAC](https://github.com/appsquickly/Typhoon-CoreData-RAC-Example)**: The holy grail for those who prefer Typhoon over aObjection
 - **[Firebase + RACExtensions](https://github.com/joenoon/Firebase-RACExtensions)**: a lib that adds extension abilities to Firebase. I find this ultra awesome for dynamic user interfaces in need of live updates
 - **[UIGestureRecognizer-RACExtension](https://github.com/kaiinui/UIGestureRecognizer-RACExtension)**: Adds UIGestureRecognizer extensions to RAC
 - **[ReactiveCocoaLayout](https://github.com/ReactiveCocoa/ReactiveCocoaLayout)**: an awesome lib for creating animations with ReactiveCocoa

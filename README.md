@@ -83,7 +83,6 @@ Here's how this list is going to be categorized:
     			//Voila, a tuple with (JSON, HTTPResponse)
 		}];
 		
-
 - **[SKPKeyboardAwareness](https://github.com/shapehq/SHPKeyboardAwareness)**: Aha! Now we really can see some power of RAC. This lib uses it to understand the presence of a keyboard (which is really annoying ususally)
 		// shpka_rac_notifyUntilDealloc is our own convenience method that returns
 		// a signal with a notification that completes when the receiver deallocates.

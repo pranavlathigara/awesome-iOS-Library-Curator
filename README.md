@@ -71,6 +71,14 @@ Here's how this list is going to be categorized:
 - **[Artsy/Eigen](https://github.com/artsy/eigen)**: From one of RAC's biggest supporters, Ash Furrow
 - **[*RACCommandExample](https://github.com/olegam/RACCommandExample)**: An incredibly insightful example project that accompanies this blog [post](http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand/) 
 - **[AFNetworking-RACExtensions](https://github.com/CodaFi/AFNetworking-RACExtensions)**: Incredibly helpful RACifying AFNetworking code! Would be pretty difficult to build by yourself (check out this blog [post](http://codeblog.shape.dk/blog/2013/11/16/wrapping-afnetworking-with-reactivecocoa/) too)
+	AFHTTPRequestOperationManager *manager = [[AFHTTPRequestOperationManager alloc]
+initWithBaseURL:url];
+	manager.requestSerializer = [AFJSONRequestSerializer serializer];
+	manager.responseSerializer = [AFJSONResponseSerializer serializer];
+
+	[[manager rac_GET:path parameters:params] subscribeNext:^(RACTuple *JSONAndHeaders) {
+    	//Voila, a tuple with (JSON, HTTPResponse)
+	}];
 - **[SKPKeyboardAwareness](https://github.com/shapehq/SHPKeyboardAwareness)**: Aha! Now we really can see some power of RAC. This lib uses it to understand the presence of a keyboard (which is really annoying ususally)
 - **[MVVM iOS Example](https://github.com/Machx/MVVM-IOS-Example)**: Solid introduction to the MVVM design pattern
 - **[ReactiveCocoa-IO](https://github.com/ReactiveCocoa/ReactiveCocoaIO)**: Use RAC for file IO!!

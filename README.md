@@ -221,6 +221,7 @@ Here's how this list is going to be categorized:
 - **[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)**: This may be one of the coolest refresh controls I've ever seen
 - **[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)**: Easily the coolest text field I've ever seen
 - **[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)**: The best message view controller I've ever seen
+- **JazzHands**
 
 #### Thanks for checking out this post! Here are some more awesome pages
 - [**awesome-xamarin**](https://github.com/benoitjadinon/awesome-xamarin)

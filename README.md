@@ -80,6 +80,19 @@ Here's how this list is going to be categorized:
 		}];
 		
 - **[SKPKeyboardAwareness](https://github.com/shapehq/SHPKeyboardAwareness)**: Aha! Now we really can see some power of RAC. This lib uses it to understand the presence of a keyboard (which is really annoying ususally)
+	// shpka_rac_notifyUntilDealloc is our own convenience method that returns
+	// a signal with a notification that completes when the receiver deallocates.
+	RACSignal *keyboardSignal = [self 		shpka_rac_notifyUntilDealloc:UIKeyboardWillShowNotification];
+
+	// viewSignal is a signal that fires whenever a UITextField or UITextView becomes first responder.
+	RACSignal *viewSignal = [RACSignal merge:@[
+  	[self 	shpka_rac_notifyUntilDealloc:UITextFieldTextDidBeginEditingNotification],
+	  [self shpka_rac_notifyUntilDealloc:UITextViewTextDidBeginEditingNotification]]
+	];
+
+	// The two signals above, combined in a ‘zip’, meaning that one of the zipped signals
+	// will wait for the other before combinedShowSignal is fired.
+	RACSignal *combinedShowSignal = [RACSignal zip:@[viewSignal,keyboardSignal]];
 - **[MVVM iOS Example](https://github.com/Machx/MVVM-IOS-Example)**: Solid introduction to the MVVM design pattern
 - **[ReactiveCocoa-IO](https://github.com/ReactiveCocoa/ReactiveCocoaIO)**: Use RAC for file IO!!
 - **[RAC-Parse](https://github.com/kastiglione/Parse-RACExtensions)**: If you're dumb enough to use Parse, then you better use RAC - you're gonna need it!

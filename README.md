@@ -71,14 +71,14 @@ Here's how this list is going to be categorized:
 - **[Artsy/Eigen](https://github.com/artsy/eigen)**: From one of RAC's biggest supporters, Ash Furrow
 - **[*RACCommandExample](https://github.com/olegam/RACCommandExample)**: An incredibly insightful example project that accompanies this blog [post](http://codeblog.shape.dk/blog/2013/12/05/reactivecocoa-essentials-understanding-and-using-raccommand/) 
 - **[AFNetworking-RACExtensions](https://github.com/CodaFi/AFNetworking-RACExtensions)**: Incredibly helpful RACifying AFNetworking code! Would be pretty difficult to build by yourself (check out this blog [post](http://codeblog.shape.dk/blog/2013/11/16/wrapping-afnetworking-with-reactivecocoa/) too)
-	AFHTTPRequestOperationManager *manager = [[AFHTTPRequestOperationManager alloc]
+		AFHTTPRequestOperationManager *manager = [[AFHTTPRequestOperationManager alloc]
 initWithBaseURL:url];
-	manager.requestSerializer = [AFJSONRequestSerializer serializer];
-	manager.responseSerializer = [AFJSONResponseSerializer serializer];
+		manager.requestSerializer = [AFJSONRequestSerializer serializer];
+		manager.responseSerializer = [AFJSONResponseSerializer serializer];
 
-	[[manager rac_GET:path parameters:params] subscribeNext:^(RACTuple *JSONAndHeaders) {
-    	//Voila, a tuple with (JSON, HTTPResponse)
-	}];
+		[[manager rac_GET:path parameters:params] subscribeNext:^(RACTuple *JSONAndHeaders) {
+    		//Voila, a tuple with (JSON, HTTPResponse)
+		}];
 - **[SKPKeyboardAwareness](https://github.com/shapehq/SHPKeyboardAwareness)**: Aha! Now we really can see some power of RAC. This lib uses it to understand the presence of a keyboard (which is really annoying ususally)
 - **[MVVM iOS Example](https://github.com/Machx/MVVM-IOS-Example)**: Solid introduction to the MVVM design pattern
 - **[ReactiveCocoa-IO](https://github.com/ReactiveCocoa/ReactiveCocoaIO)**: Use RAC for file IO!!
@@ -87,14 +87,14 @@ initWithBaseURL:url];
 - **[RAC-Playground](https://github.com/Machx/Reactive-Cocoa-Playground)**: Someone's playground project
 - **[Expecta+RAC](https://github.com/kylef/Expecta-ReactiveCocoa)**: LOVE THIS. Expecta is the testing framework that's great for MVVM. It only makes sense to add RAC support!
 - **[LLRreactiveMatchers](https://github.com/lawrencelomax/LLReactiveMatchers)**: Just like the one above. LLReactiveMatchers should be able to cover most of the reasons you want to test Signals. One matcher = One Subscription, n Matchers = n Subscriptions. Tests that compose on top of Subjects should use LLSignalTestRecorder and expectations should be made on the recorder.
-    NSMutableArray *sentValues = [NSMutableArray array];
-    NSArray *expected = @[@0, @1, @2];
-    BOOL hasCompleted = NO;
-    [signal subscribeNext:^(id value) {
-        [sentValues addObject:value];
-    } completed:^{
-        hasCompleted = YES;
-    }];
+    		NSMutableArray *sentValues = [NSMutableArray array];
+    		NSArray *expected = @[@0, @1, @2];
+    		BOOL hasCompleted = NO;
+    	        [signal subscribeNext:^(id value) {
+		    [sentValues addObject:value];
+    		} completed:^{
+		    hasCompleted = YES;
+    		}];
     expect(hasCompleted && [sentValues isEqualToArray:expected]).will.beTruthy();
 - **[RAC+BLE](https://github.com/indragiek/ReactiveBLE)**: RAC support for Buletooth low energy communication with core bluetooth
 - **[Simple Weather](https://github.com/TCLee/ReactiveWeather)**: Awesome test project that uses RAC and Mantle

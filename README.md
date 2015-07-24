@@ -78,6 +78,16 @@ Here's how this list is going to be categorized:
 - **[RAC-Example](https://github.com/tLewisII/RACExample)**: Another example. Nt bad
 - **[RAC-Playground](https://github.com/Machx/Reactive-Cocoa-Playground)**: Someone's playground project
 - **[Expecta+RAC](https://github.com/kylef/Expecta-ReactiveCocoa)**: LOVE THIS. Expecta is the testing framework that's great for MVVM. It only makes sense to add RAC support!
+- **[LLRreactiveMatchers](https://github.com/lawrencelomax/LLReactiveMatchers)**: Just like the one above. LLReactiveMatchers should be able to cover most of the reasons you want to test Signals. One matcher = One Subscription, n Matchers = n Subscriptions. Tests that compose on top of Subjects should use LLSignalTestRecorder and expectations should be made on the recorder.
+    NSMutableArray *sentValues = [NSMutableArray array];
+    NSArray *expected = @[@0, @1, @2];
+    BOOL hasCompleted = NO;
+    [signal subscribeNext:^(id value) {
+        [sentValues addObject:value];
+    } completed:^{
+        hasCompleted = YES;
+    }];
+    expect(hasCompleted && [sentValues isEqualToArray:expected]).will.beTruthy();
 - **[RAC+BLE](https://github.com/indragiek/ReactiveBLE)**: RAC support for Buletooth low energy communication with core bluetooth
 - **[Simple Weather](https://github.com/TCLee/ReactiveWeather)**: Awesome test project that uses RAC and Mantle
 - **[RAC+RestKit](https://github.com/stefanomondino/SMReactiveRestKit)**: RAC support for RestKit- awesomeness. RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X
@@ -92,7 +102,6 @@ Here's how this list is going to be categorized:
 - **[RAC+Evernote](https://github.com/rizumita/Reactive-Evernote-SDK-iOS)**: For the Evernote SDK
 - **[RACSnippets](https://github.com/lzyy/RAC-Snippets)**: Various RAC Snippets
 - **[RAC+PullToRefresh](https://github.com/WilliamZang/ZCWRACPullRefresh)**: Refresh control written in RAC
-
 
 ### Recently I've done a few projects that involve Payments, iBeacons, and PassKit. Make sure to check these links out:
 - **[Ubudu](https://github.com/Ubudu/IOS-SDK)**: Cool SDK for integrating iBeacons into your retail space. Looks good for malls ($$$)

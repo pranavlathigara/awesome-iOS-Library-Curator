@@ -53,6 +53,7 @@ Here's how this list is going to be categorized:
 - **[Ray Wenderlich](http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1)**: Some people like these
 - **[Ash Furrow Video](https://www.youtube.com/watch?v=TlgUWYrQ0sc)**: Great presentation by one of RAC's leading voices
 - **[Cocoa Samuri](http://cocoasamurai.blogspot.ca/2013/03/basic-mvvm-with-reactivecocoa.html)**: Introduction that everyone is referring to
+
 ### ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code so here's a bunch of projects that should make your RAC transtion a little bit smoother
 
 - **[ExpressiveReactiveCocoa](https://github.com/kastiglione/ExpressiveReactiveCocoa)**: Before you do anything RAC related, make sure to give this presentation a peak!

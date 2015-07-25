@@ -150,6 +150,24 @@ Here's how this list is going to be categorized:
 
 - **[RAC+PullToRefresh](https://github.com/WilliamZang/ZCWRACPullRefresh)**: Refresh control written in RAC
 
+##### Wow - you might be saying to yourself... "THERE'S SO MANY PROJECTS!" OKAAY. I'LL LIST MY FAVORITE ONES IN ORDER
+
+##### RAC Example Projects
+1. RACSnippets
+2. FRP
+3. RACExample
+4. 101 RAC Examples
+5. Artsy/Eigen
+6. Ash Furrow Func Reactive Demo
+7. RACCommand Example
+8. Bizhi
+9. Bikes
+
+##### RAC+Extensions
+1. AFNetworking + RACExtensions
+2. Expecta + RAC
+3. CETableViewBinding
+
 ### Recently I've done a few projects that involve Payments, iBeacons, and PassKit. Make sure to check these links out:
 - **[Ubudu](https://github.com/Ubudu/IOS-SDK)**: Cool SDK for integrating iBeacons into your retail space. Looks good for malls ($$$)
 - **[Captainpass](https://github.com/CarvingLabs/captainpass-ios-sdk)** Simple to use Passbook sdk ($$$)

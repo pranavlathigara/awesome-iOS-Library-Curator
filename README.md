@@ -139,7 +139,7 @@ Here's how this list is going to be categorized:
     - Simple MVVM
     - Notification with RAC
     - UITableView reloadData
-    - Waterfall
+    - Waterfall (with SDWebImage)
     - RAC and RACObserve
     - use 'tryMap'
     - Repeat after TimeInterval

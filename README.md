@@ -135,7 +135,7 @@ Here's how this list is going to be categorized:
 - **[Loverly](https://github.com/moyunmo/Loverly)**: AFNetworking, ReactiveCocoa+MVVM, Pop
 - **[RAC+Evernote](https://github.com/rizumita/Reactive-Evernote-SDK-iOS)**: For the Evernote SDK
 - **[RACSnippets](https://github.com/lzyy/RAC-Snippets)**: Various RAC Snippets. This project is really really good. Possibly my favorite RACExample project. It has a whole bunch of different cases in which you might use RAC. These cases are listed below
-	- Use 'then' and 'take' 
+	- Use '> then' and 'take' 
     - Simple MVVM
     - Notification with RAC
     - UITableView and reloadData

@@ -149,21 +149,22 @@ Here's how this list is going to be categorized:
     - Deal Multiple Errors
 
 - **[RAC+PullToRefresh](https://github.com/WilliamZang/ZCWRACPullRefresh)**: Refresh control written in RAC
-- **[C-41](https://github.com/ashfurrow/C-41)**: Yet another fantastic Ash Furrow project. This guy seriously knows his stuff 
+- **[C-41](https://github.com/ashfurrow/C-41)**: Yet another fantastic Ash Furrow project. This guy seriously knows his stuff. This project is great not only in it's completeness, but also because it is fully tested with Expecta 
 
 ##### Wow - you might be saying to yourself... "THERE'S SO MANY PROJECTS!" OKAAY. I'LL LIST MY FAVORITE ONES IN ORDER
 
 ##### RAC Example Projects
 1. RACSnippets
 2. FRP (Ash Furrow)
-3. RACExample 
-4. 101 RAC Examples
-5. Artsy/Eigen (Ash Furrow)
-6. Func Reactive Demo (Ash Furrow)
-7. RACCommand Example
-8. Bizhi
-9. Bikes
-10. C-41 (Ash Furrow)
+3. C-41 (Ash Furrow)
+4. RACExample 
+5. 101 RAC Examples
+6. Artsy/Eigen (Ash Furrow)
+7. Func Reactive Demo (Ash Furrow)
+8. RACCommand Example
+9. Bizhi
+10. Bikes
+11. 
 
 ##### RAC+Extensions
 1. AFNetworking + RACExtensions

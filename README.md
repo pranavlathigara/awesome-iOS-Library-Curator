@@ -135,6 +135,19 @@ Here's how this list is going to be categorized:
 - **[Loverly](https://github.com/moyunmo/Loverly)**: AFNetworking, ReactiveCocoa+MVVM, Pop
 - **[RAC+Evernote](https://github.com/rizumita/Reactive-Evernote-SDK-iOS)**: For the Evernote SDK
 - **[RACSnippets](https://github.com/lzyy/RAC-Snippets)**: Various RAC Snippets. This project is really really good. It has a whole bunch of different cases in which you might use RAC
+	- Use 'then' and 'take' 
+    - Simple MVVM
+    - Notification with RAC
+    - UITableView reloadData
+    - Waterfall
+    - RAC and RACObserve
+    - use 'tryMap'
+    - Repeat after TimeInterval
+    - RACCommand
+    - Auto Fetch access token
+    - Use TakeUntil with Cell
+    - Deal Multiple Errors
+
 - **[RAC+PullToRefresh](https://github.com/WilliamZang/ZCWRACPullRefresh)**: Refresh control written in RAC
 
 ### Recently I've done a few projects that involve Payments, iBeacons, and PassKit. Make sure to check these links out:

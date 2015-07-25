@@ -155,15 +155,15 @@ Here's how this list is going to be categorized:
 
 ##### RAC Example Projects
 1. RACSnippets
-2. FRP
-3. RACExample
+2. FRP (Ash Furrow)
+3. RACExample 
 4. 101 RAC Examples
-5. Artsy/Eigen
-6. Ash Furrow Func Reactive Demo
+5. Artsy/Eigen (Ash Furrow)
+6. Func Reactive Demo (Ash Furrow)
 7. RACCommand Example
 8. Bizhi
 9. Bikes
-10. C-41
+10. C-41 (Ash Furrow)
 
 ##### RAC+Extensions
 1. AFNetworking + RACExtensions

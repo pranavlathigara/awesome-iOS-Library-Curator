@@ -44,7 +44,6 @@ Here's how this list is going to be categorized:
 
 ### ReactiveCocoa, Functional Reactive Programming, and MVVM isn't easy to understand (especially for an Object Oriented developer), so here's a few good things to read first (I've read a lot of these)
 - **[Zweitag FRP Breakdown](https://www.zweitag.de/en/blog/technology/functional-reactive-programming-frp)**: Before you jump into RAC, it's probably a good idea to learn a thing or 2 about what functional programming really is
-- **[Reactive Cookbook](http://reactivecookbook.com/)**: Cookbook for a few reactive cococa things
 - **[ifNotApps](http://ifnotapps.com/2013/08/10/reactivecocoa-from-the-ground-floor-part2/)**: Great overall breakdown. Comes with this practice project which has tons of various exmaples **_[RACExample](https://github.com/tLewisII/RACExample)_**
 - **[ExpressiveReactiveCocoa](https://github.com/kastiglione/ExpressiveReactiveCocoa)**: Before you do anything RAC related, make sure to give this presentation a peak!
 - **[RACDesignPatterns](http://rcdp.io)**: Definitely not the best site in the world, but I thought it was worth a read through. Definitely a conecpt that needs to be expanded on
@@ -55,6 +54,7 @@ Here's how this list is going to be categorized:
 - **[Ray Wenderlich](http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1)**: Some people like these
 - **[Ash Furrow Video](https://www.youtube.com/watch?v=TlgUWYrQ0sc)**: Great presentation by one of RAC's leading voices
 - **[Cocoa Samuri](http://cocoasamurai.blogspot.ca/2013/03/basic-mvvm-with-reactivecocoa.html)**: Introduction that everyone is referring to
+- **[Reactive Cookbook](http://reactivecookbook.com/)**: Cookbook for a few reactive cococa things. Comes with this [example](https://github.com/jeroenvloothuis/Reactive-Cookbook)
 
 ### ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code so here's a bunch of projects that should make your RAC transtion a little bit smoother
 

@@ -42,7 +42,8 @@ Here's how this list is going to be categorized:
 - **[CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket)**: Webscokets done right in iOS
 - **[CanvasPod](https://github.com/CanvasPod/Canvas)**: Really cool addition to Xcode lets you animate your stuff in interface builder WITHOUT running your code! Saves a heck of a lot of time
 
-### ReactiveCocoa isn't easy to understand, so here's a few good things to read first (I've read a lot of these)
+### ReactiveCocoa, Functional Reactive Programming, and MVVM isn't easy to understand (especially for an Object Oriented developer), so here's a few good things to read first (I've read a lot of these)
+- **[Zweitag FRP Breakdown](https://www.zweitag.de/en/blog/technology/functional-reactive-programming-frp)**: Before you jump into RAC, it's probably a good idea to learn a thing or 2 about what functional programming really is
 - **[ifNotApps](http://ifnotapps.com/2013/08/10/reactivecocoa-from-the-ground-floor-part2/)**: Great overall breakdown. Comes with this practice project which has tons of various exmaples **_[RACExample](https://github.com/tLewisII/RACExample)_**
 - **[ExpressiveReactiveCocoa](https://github.com/kastiglione/ExpressiveReactiveCocoa)**: Before you do anything RAC related, make sure to give this presentation a peak!
 - **[RACDesignPatterns](http://rcdp.io)**: Definitely not the best site in the world, but I thought it was worth a read through. Definitely a conecpt that needs to be expanded on

@@ -12,7 +12,8 @@ This guide was created using **[Prose](http://prose.io/)**, which utilizes [**Ma
 
 Here's how this list is going to be categorized:
 - Essential Projects
-- ReactiveCocoa Extensions
+- ReactiveCocoa / FRP / MVVM intro
+- ReactiveCocoa Projects
 - Library and Frameworks
 - Plugins
 - Good Websites

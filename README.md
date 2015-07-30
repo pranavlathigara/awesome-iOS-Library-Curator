@@ -192,6 +192,7 @@ Start with deterministic, declarative, immutable core
 - **[RAC+PullToRefresh](https://github.com/WilliamZang/ZCWRACPullRefresh)**: Refresh control written in RAC
 - **[C-41](https://github.com/ashfurrow/C-41)**: Yet another fantastic Ash Furrow project. This guy seriously knows his stuff. This project is great not only in it's completeness, but also because it is fully tested with Expecta, Specta, and OCMock
 - **[Reactive Cocoa Playground](https://github.com/Machx/Reactive-Cocoa-Playground)**: Made by the guy who made that highly quoted MVVM article. Lots of really good examples
+- [**RAC Ruby Motion**](https://github.com/kastiglione/RACSignupDemo-RubyMotion): An example project for these "special" developers
 
 ##### Wow - you might be saying to yourself... "THERE'S SO MANY PROJECTS!" OKAAY. I'LL LIST MY FAVORITE ONES IN ORDER
 

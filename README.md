@@ -47,7 +47,9 @@ Here's how this list is going to be categorized:
 - NSHipster
 - Objc.io
 - raywenderlich.com
-
+- Yalantis (probably the best iOS contractors out there)
+- Atomic object (I find myself on that site pretty often)
+ 
 ### Here is a list of some high quality iOS reads on how to make some high quality stuff
 - [pull to make soup](https://yalantis.com/blog/how-we-built-customizable-pull-to-refresh-pull-to-cook-soup-animation/?utm_source=github)
 

@@ -64,7 +64,25 @@ Here's how this list is going to be categorized:
 - **[RACDesignPatterns](http://rcdp.io)**: Definitely not the best site in the world, but I thought it was worth a read through. Definitely a conecpt that needs to be expanded on
 - **[RAC Performance](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1503)**: Investigation of RAC performance
 - **[RAC + MVVM introduction](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)**: One of the clearest write-ups I've ever seen. Great visuals 
-- **[Modern Concurrency: Erlang, Scala, Go, Clojure](http://kachayev.github.io/talks/kharkivpy%230/#/)**: Really good presentation about what makes functional programming awesome in other languages
+- **[Modern Concurrency: Erlang, Scala, Go, Clojure](http://kachayev.github.io/talks/kharkivpy%230/#/)**: Really good presentation about what makes functional programming awesome in other languages. Let me just try to summarize quickly with some talking points
+- - Remember, concurrency is not parallelism! 
+- - Also, locks are awful. 
+- - "Actor" is a state (Scala) VS. passing state as an argument (Erlang).
+- - > "Rough analogy: writing to a file by name (process, Erlang) vs. writing to a file descriptor (channel, Go)." (c) Rob Pike 
+- - Why functional programming matters in Clojure: Side-effect free functions and Deterministic functions/calculations
+- - There is no silver bullet
+ -- Use most natural approach for your technology / OP (there are many STM implementations, but in Clojure it's idiomatic and part of the core)
+-- Look deeply into your domain (presenters usually use most convenient case(s) to tell about functionality)
+-- Use "unusual" approach but remember that on this way only conventions rule
+If you need distributed concurrency - look at actors
+- - For Scala developers from 
+Jonas Boner
+:
+Start with deterministic, declarative, immutable core
+-- Add indeterminism selectively (actors)
+-- Add mutability selectively (STM)
+-- Finally: add locks and explicit threads
+-- check out these [slides](https://github.com/kachayev/talks/tree/master/kharkivpy%230)
 - **[twocentstudios](http://twocentstudios.com/blog/2014/06/08/on-mvvm-and-architecture-questions/)**: a friendly, project based introduction to RAC
 - **[RAC TableView Binding](http://blog.scottlogic.com/2014/05/11/reactivecocoa-tableview-binding.html)**: An exploration of using RAC to update the contents of a UITableView
 - **[Ray Wenderlich](http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1)**: Some people like these

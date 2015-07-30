@@ -92,6 +92,7 @@ Start with deterministic, declarative, immutable core
 - **[Reactive Cookbook](http://reactivecookbook.com/)**: Cookbook for a few reactive cococa things. Comes with this [example](https://github.com/jeroenvloothuis/Reactive-Cookbook)
 - **[Bi-directional data bindings with RACChannel](http://spin.atomicobject.com/2015/05/04/bi-directional-data-bindings-reactivecocoa/)**: If you want to really push your knowledge of RAC, this is an interesting read
 - [**RAC Changelog**](https://github.com/ReactiveCocoa/ReactiveCocoa/blob/fd533d07b64d40cf79d069584d8cd95158998095/CHANGELOG.md#simpler-two-way-bindings): You've probably already read the RAC documentation (highly recommended). However, you probably haven't read [this](https://github.com/ReactiveCocoa/ReactiveCocoa/blob/fd533d07b64d40cf79d069584d8cd95158998095/CHANGELOG.md#simpler-two-way-bindings)
+- [**Reactive Cocoa and Ruby Motion**](http://spin.atomicobject.com/2013/06/18/reactivecocoa-rubymotion/): If you HAVE to use Ruby Motion, you might want to check out this set up guide for getting your RAC code up and running
 
 ### ReactiveCocoa should transform EVERYTHING when it comes to writing iOS code so here's a bunch of projects that should make your RAC transtion a little bit smoother
 

@@ -63,7 +63,8 @@ Here's how this list is going to be categorized:
 - **[ExpressiveReactiveCocoa](https://github.com/kastiglione/ExpressiveReactiveCocoa)**: Before you do anything RAC related, make sure to give this presentation a peak!
 - **[RACDesignPatterns](http://rcdp.io)**: Definitely not the best site in the world, but I thought it was worth a read through. Definitely a conecpt that needs to be expanded on
 - **[RAC Performance](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1503)**: Investigation of RAC performance
- - **[RAC + MVVM introduction](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)**: One of the clearest write-ups I've ever seen. Great visuals 
+- **[RAC + MVVM introduction](http://www.sprynthesis.com/2014/12/06/reactivecocoa-mvvm-introduction/)**: One of the clearest write-ups I've ever seen. Great visuals 
+- **[Modern Concurrency: Erlang, Scala, Go, Clojure](http://kachayev.github.io/talks/kharkivpy%230/#/)**: Really good presentation about what makes functional programming awesome in other languages
 - **[twocentstudios](http://twocentstudios.com/blog/2014/06/08/on-mvvm-and-architecture-questions/)**: a friendly, project based introduction to RAC
 - **[RAC TableView Binding](http://blog.scottlogic.com/2014/05/11/reactivecocoa-tableview-binding.html)**: An exploration of using RAC to update the contents of a UITableView
 - **[Ray Wenderlich](http://www.raywenderlich.com/62699/reactivecocoa-tutorial-pt1)**: Some people like these

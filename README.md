@@ -57,6 +57,7 @@ Here's how this list is going to be categorized:
 ### ReactiveCocoa, Functional Reactive Programming, and MVVM isn't easy to understand (especially for an Object Oriented developer), so here's a few good things to read first (I've read a lot of these)
 - **[Zweitag FRP Breakdown](https://www.zweitag.de/en/blog/technology/functional-reactive-programming-frp)**: Before you jump into RAC, it's probably a good idea to learn a thing or 2 about what functional programming really is
 - **[RXMarbles](https://github.com/staltz/rxmarbles)**: Really cool demonstrations of reactive programming operators in RX
+- [**RX Website**](http://reactivex.io/documentation/operators.html): This pretty much gives a visual representation of ALL the reactive operators. Remember, RX came before RAC, and a lot of major RACStream and RACSignal methods have an RX equivalent. For example, flattenMap -> SelectMany  
 - **[Atomic Object](http://spin.atomicobject.com/?s=reactivecocoa)** Bunch of articles from a really respected iOS development consultant group
 - **[Yalantis Reactive Programming Objective-C](https://yalantis.com/blog/reactive-programming-on-objective-c/)**: Some great examples and visuals are abundant 
 - [**How I Learned to Write Custom Signals in Reactive Cocoa**](https://yalantis.com/blog/how-i-learned-to-write-custom-signals-in-reactive-cocoa/): RACSignal Tutorial

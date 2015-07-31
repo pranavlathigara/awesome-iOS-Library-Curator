@@ -99,7 +99,7 @@ Start with deterministic, declarative, immutable core
 - **[Functional Reactive Pixels (FRP)](https://github.com/ashfurrow/FunctionalReactivePixels)**: A great project from the zen master Ash Furrow. Featured in his book
 - **[ExpressiveReactiveCocoa](https://github.com/kastiglione/ExpressiveReactiveCocoa)**: Before you do anything RAC related, make sure to give this presentation a peak!
 - **[RACAction](https://github.com/Automatic/RACAction)**: Make your RACCommands look like Swith and RAC 3.0 's RACAction!
-- **[101 RAC Samples](https://github.com/dogwith1eye/101RACSamples)**: 101 different examples of using RAC :)
+- **[101 RAC Samples](https://github.com/dogwith1eye/101RACSamples)**: 101 different examples of using RAC :) I;m pretty sure that this is inspired by [101 RX Samples](http://rxwiki.wikidot.com/101samples) 
 - **[Bizhi](https://github.com/lzyy/bizhi)**: the holy grail of example projects. uses objection + reactivecocoa (my favs) + AFNetworking + UICollectionView
 - **[Typhoon + Core Data + RAC](https://github.com/appsquickly/Typhoon-CoreData-RAC-Example)**: The holy grail for those who prefer Typhoon over aObjection
 - **[RateStuff](https://github.com/danbennett/RateStuff)**: Another RAC + Typhoon example
